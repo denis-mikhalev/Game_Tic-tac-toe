@@ -46,7 +46,7 @@
 ### Build & Run
 
 ```bash
-git clone https://github.com/<your-username>/Game_Tic-tac-toe.git
+git clone https://github.com/denis-mikhalev/Game_Tic-tac-toe.git
 cd Game_Tic-tac-toe/GameXO
 ```
 
