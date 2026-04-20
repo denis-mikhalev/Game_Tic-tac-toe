@@ -11,9 +11,7 @@
 
 ## Screenshot
 
-> Add a screenshot or GIF here: place it at `assets/screenshot.png` and uncomment the line below.
-
-<!-- ![Gameplay screenshot](assets/screenshot.png) -->
+![Gameplay screenshot](assets/screenshot.png)
 
 ---
 
