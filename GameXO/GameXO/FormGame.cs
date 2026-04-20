@@ -158,6 +158,7 @@ namespace GameXO
         private void newGameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             myGame.newGame();
+            chooseGamer = true;
 
             for (int i = 0; i < 9; i++)              
                     retButton(i).Enabled = true;                
